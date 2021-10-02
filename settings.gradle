@@ -8,3 +8,7 @@ dependencyResolutionManagement {
 }
 rootProject.name = "AndroidInjectionsDependency"
 include ':app'
+include ':models'
+include ':network'
+include ':database'
+include ':di'
